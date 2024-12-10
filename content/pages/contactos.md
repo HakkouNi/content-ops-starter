@@ -17,7 +17,7 @@ sections:
           name: name
           label: Name
           hideLabel: true
-          placeholder: Your name
+          placeholder: Nome
           isRequired: true
           width: full
         - type: EmailFormControl
