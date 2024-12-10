@@ -4,11 +4,6 @@
         "type": "ImageBlock"
     },
     "text": "",
-    "secondaryLinks": {
-        "title": "Company",
-        "links": [],
-        "type": "FooterLinksGroup"
-    },
     "socialLinks": [
         {
             "altText": "Instagram link",
