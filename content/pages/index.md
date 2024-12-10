@@ -21,7 +21,7 @@ sections:
         type: Button
       - label: Descobre mais
         altText: ''
-        url: /
+        url: /video
         showIcon: true
         icon: arrowRight
         iconPosition: right
