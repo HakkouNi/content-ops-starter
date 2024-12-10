@@ -2,7 +2,7 @@
 type: PageLayout
 title: contactos
 sections: []
-slug: empty
+slug: contactos
 isDraft: false
 seo:
   type: Seo
