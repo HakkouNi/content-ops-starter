@@ -31,7 +31,7 @@ sections:
           name: message
           label: Message
           hideLabel: true
-          placeholder: Your message
+          placeholder: Mensagem
           width: full
       submitButton:
         type: SubmitButtonFormControl
