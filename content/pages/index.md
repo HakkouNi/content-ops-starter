@@ -79,7 +79,7 @@ sections:
     media:
       type: VideoBlock
       title: Title of the video
-      url: /images/placeholder-video.mp4
+      url: 'https://youtu.be/X2Q6BQkaLRo'
       autoplay: true
       loop: true
       muted: true
