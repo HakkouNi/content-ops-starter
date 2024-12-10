@@ -8,9 +8,14 @@ sections:
       text: Aviso legal
       color: text-dark
     subtitle: ''
-    text: >
-      A service that helps businesses to manage their social media accounts and
-      posts.
+    text: |+
+      Aviso legal: os conteúdos constantes website foram realizados 
+      por alunos no âmbito de uma disciplina– Processos de gestão e 
+      Inovação - do 3º ano da licenciatura de Engenharia Informática 
+      da Faculdade de Ciências e Tecnologia da Universidade de 
+      Coimbra (FCTUC), pelo que a FCTUC não se responsabiliza pelo 
+      seu conteúdo.
+
     actions: []
     media:
       type: ImageBlock
