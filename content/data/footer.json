@@ -23,7 +23,7 @@
         },
         {
             "altText": "Email link",
-            "url": "/",
+            "url": "/contactos",
             "icon": "mail",
             "type": "Social"
         }
