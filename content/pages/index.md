@@ -78,7 +78,7 @@ sections:
     actions: []
     media:
       title: Title of the video
-      url: ''
+      url: 'https://youtu.be/3U8uyWoHEZc'
       autoplay: true
       loop: true
       muted: true
