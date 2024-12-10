@@ -68,7 +68,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Aviso legal
+      text: Sobre nós
       color: text-dark
       styles:
         self:
