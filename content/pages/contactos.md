@@ -7,7 +7,7 @@ sections:
       type: TitleBlock
       text: Entre em contacto connosco
       color: text-dark
-    subtitle: Section with a form subtitle
+    subtitle: ''
     text: ''
     actions: []
     media:
