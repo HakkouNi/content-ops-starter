@@ -7,6 +7,9 @@ sections:
       type: TitleBlock
       text: Aviso legal
       color: text-dark
+      styles:
+        self:
+          textAlign: center
     subtitle: ''
     text: |
       Os conteúdos constantes website foram realizados
