@@ -74,13 +74,7 @@ sections:
         self:
           textAlign: center
     subtitle: ''
-    text: |
-      Os conteúdos constantes website foram realizados
-      por alunos no âmbito de uma disciplina– Processos de gestão e
-      Inovação - do 3º ano da licenciatura de Engenharia Informática
-      da Faculdade de Ciências e Tecnologia da Universidade de
-      Coimbra (FCTUC), pelo que a FCTUC não se responsabiliza pelo
-      seu conteúdo.
+    text: "Somos uma plataforma que revoluciona a aprendizagem de programação, transformando o estudo numa aventura interativa e emocionante. Criado para quem está cansado dos métodos tradicionais de ensino, o EstuDeiFácil combina educação e diversão para proporcionar uma experiência única.\n\nSeja iniciante ou alguém que procura melhorar as suas competências em IPRP, aqui o aprender deixa de ser uma obrigação e passa a ser um jogo. \U0001F579️\U0001F4A1\n\nO nosso objetivo é tornar a aprendizagem acessível, envolvente e eficaz, enquanto exploras novos desafios e te divertes. \U0001F680\n\nFica atento, porque estamos prestes a lançar esta inovação que vai transformar a forma como estudas. Junta-te a nós e começa já a tua jornada de aprendizagem com o EstuDeiFácil! \U0001F31F\n\n\n\n"
     actions: []
     media:
       type: ImageBlock
