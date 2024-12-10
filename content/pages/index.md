@@ -74,7 +74,7 @@ sections:
         self:
           textAlign: center
     subtitle: ''
-    text: "  Somos uma plataforma que revoluciona a aprendizagem de programação, transformando o estudo numa aventura interativa e emocionante. Criado para quem está cansado dos métodos tradicionais de ensino, o EstuDeiFácil combina educação e diversão para proporcionar uma experiência única.\n\n  Seja iniciante ou alguém que procura melhorar as suas competências em IPRP, aqui o aprender deixa de ser uma obrigação e passa a ser um jogo. \U0001F579️\U0001F4A1\n\n  O nosso objetivo é tornar a aprendizagem acessível, envolvente e eficaz, enquanto exploras novos desafios e te divertes. \U0001F680\n\n  Fica atento, porque estamos prestes a lançar esta inovação que vai transformar a forma como estudas. Junta-te a nós e começa já a tua jornada de aprendizagem com o EstuDeiFácil! \U0001F31F\n"
+    text: "<div style=\"text-align: center\">Somos uma plataforma que revoluciona a aprendizagem de programação, transformando o estudo numa aventura interativa e emocionante. Criado para quem está cansado dos métodos tradicionais de ensino, o EstuDeiFácil combina educação e diversão para proporcionar uma experiência única.Seja iniciante ou alguém que procura melhorar as suas competências em IPRP, aqui o aprender deixa de ser uma obrigação e passa a ser um jogo. \U0001F579️\U0001F4A1O nosso objetivo é tornar a aprendizagem acessível, envolvente e eficaz, enquanto exploras novos desafios e te divertes. \U0001F680Fica atento, porque estamos prestes a lançar esta inovação que vai transformar a forma como estudas. Junta-te a nós e começa já a tua jornada de aprendizagem com o EstuDeiFácil! \U0001F31F</div>\n\n"
     actions: []
     media:
       type: ImageBlock
