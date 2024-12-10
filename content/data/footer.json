@@ -47,7 +47,7 @@
         },
         {
             "type": "Link",
-            "label": "See Tutorials",
+            "label": "Aviso Legal",
             "altText": "",
             "url": "/avisolegal",
             "showIcon": false,
