@@ -1,7 +1,8 @@
 {
     "logo": {
         "altText": "Logo light",
-        "type": "ImageBlock"
+        "type": "ImageBlock",
+        "url": "/images/logofinalpgi-removebg-preview.ico"
     },
     "text": "estudeifácil\n\n",
     "socialLinks": [
