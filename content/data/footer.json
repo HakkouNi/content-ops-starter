@@ -34,11 +34,6 @@
     "copyrightText": "Powered by [Netlify Create](https://www.netlify.com/platform/create/)",
     "colors": "bg-dark-fg-light",
     "type": "Footer",
-    "secondaryLinks": {
-        "type": "FooterLinksGroup",
-        "title": "Company",
-        "links": []
-    },
     "primaryLinks": {
         "type": "FooterLinksGroup",
         "title": "Product",
