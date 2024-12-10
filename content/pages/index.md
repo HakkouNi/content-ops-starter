@@ -67,7 +67,7 @@ sections:
     type: DividerSection
   - type: GenericSection
     title:
-      text: Generic section with a video
+      text: Sobre nós
       color: text-dark
       styles:
         self:
