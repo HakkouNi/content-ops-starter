@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       text: Aprende enquanto jogas
-      color: text-dark
+      color: text-light
       type: TitleBlock
     subtitle: 'Interativo, Divertido e Eficaz'
     text: >
