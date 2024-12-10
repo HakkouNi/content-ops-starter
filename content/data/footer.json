@@ -33,14 +33,6 @@
             "type": "Link"
         },
         {
-            "label": "Privacy",
-            "url": "/",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "type": "Link"
-        },
-        {
             "type": "Link",
             "label": "Aviso Legal",
             "altText": "",
@@ -50,6 +42,14 @@
             "iconPosition": "right",
             "style": "secondary",
             "elementId": ""
+        },
+        {
+            "label": "Privacy",
+            "url": "/",
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "secondary",
+            "type": "Link"
         }
     ],
     "copyrightText": "Powered by [Netlify Create](https://www.netlify.com/platform/create/)",
