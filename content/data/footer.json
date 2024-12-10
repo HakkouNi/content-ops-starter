@@ -16,15 +16,15 @@
     },
     "socialLinks": [
         {
-            "altText": "Instagram link",
-            "url": "https://www.instagram.com/estudeifacil",
-            "icon": "instagram",
-            "type": "Social"
-        },
-        {
             "altText": "Email link",
             "url": "/contactos",
             "icon": "mail",
+            "type": "Social"
+        },
+        {
+            "altText": "Instagram link",
+            "url": "https://www.instagram.com/estudeifacil",
+            "icon": "instagram",
             "type": "Social"
         }
     ],
