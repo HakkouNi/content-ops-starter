@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: 'Joga, Aprende, Evolui'
+      text: 'Aprende enquanto jogas: Interativo, divertido e eficaz'
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
