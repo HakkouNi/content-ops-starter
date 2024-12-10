@@ -20,6 +20,7 @@ sections:
       self:
         alignItems: center
         justifyContent: center
+        flexDirection: row
 slug: avisolegal
 isDraft: false
 seo:
