@@ -40,7 +40,7 @@ sections:
         self:
           borderRadius: small
     elementId: ''
-    colors: bg-dark-fg-light
+    colors: bg-light-fg-dark
     styles:
       self:
         alignItems: center
