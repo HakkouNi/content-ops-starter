@@ -59,7 +59,7 @@
                 "type": "Link",
                 "label": "Contactos",
                 "altText": "",
-                "url": "/",
+                "url": "/contactos",
                 "showIcon": false,
                 "icon": "arrowRight",
                 "iconPosition": "right",
