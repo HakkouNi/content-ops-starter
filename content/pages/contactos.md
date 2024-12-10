@@ -7,7 +7,7 @@ sections:
       type: TitleBlock
       text: Entre em contacto connosco
       color: text-dark
-    subtitle: ''
+    subtitle: estudeifacil@gmail.com
     text: ''
     actions: []
     media:
