@@ -103,6 +103,7 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: left
+    elementId: video
   - type: DividerSection
     title: Divider
     elementId: ''
