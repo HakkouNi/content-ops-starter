@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Entre em contacto conosco
+      text: Entre em contacto connosco
       color: text-dark
     subtitle: Section with a form subtitle
     text: ''
