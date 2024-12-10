@@ -74,11 +74,7 @@ sections:
           textAlign: left
       type: TitleBlock
     subtitle: ''
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: "Bem-vindo ao **EstuDeiFácil**, onde estudar nunca foi tão divertido! \U0001F3AE\U0001F4BB\n\nSomos uma plataforma que revoluciona a aprendizagem de programação, transformando o estudo numa aventura interativa e emocionante. Criado para quem está cansado dos métodos tradicionais de ensino, o EstuDeiFácil combina educação e diversão para proporcionar uma experiência única.\n\nSeja iniciante ou alguém que procura melhorar as suas competências em IPRP, aqui o aprender deixa de ser uma obrigação e passa a ser um jogo. \U0001F579️\U0001F4A1\n\nO nosso objetivo é tornar a aprendizagem acessível, envolvente e eficaz, enquanto exploras novos desafios e te divertes. \U0001F680\n\nFica atento, porque estamos prestes a lançar esta inovação que vai transformar a forma como estudas. Junta-te a nós e começa já a tua jornada de aprendizagem com o EstuDeiFácil! \U0001F31F\n\n\n\n\n\n"
     actions: []
     media:
       title: Title of the video
