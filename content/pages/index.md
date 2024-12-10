@@ -19,15 +19,6 @@ sections:
         style: secondary
         elementId: ''
         type: Button
-      - label: Descobre mais
-        altText: ''
-        url: /video
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        elementId: ''
-        type: Link
     media:
       url: /images/layoutpgi.png
       altText: Unblock your team boost your time to production preview
