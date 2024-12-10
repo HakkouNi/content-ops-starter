@@ -85,7 +85,7 @@
             "type": "Button"
         },
         {
-            "label": "Log in",
+            "label": "Contactos",
             "url": "/",
             "icon": "arrowRight",
             "iconPosition": "right",
