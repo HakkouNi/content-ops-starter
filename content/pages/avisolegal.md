@@ -19,6 +19,7 @@ sections:
     styles:
       self:
         alignItems: center
+        justifyContent: center
 slug: avisolegal
 isDraft: false
 seo:
