@@ -12,7 +12,8 @@ sections:
     actions:
       - label: Download
         altText: ''
-        url: /
+        url: >-
+          https://mega.nz/file/MEgW0Yha#wSiHvdVr24YhCL4znS9H5yRR_FKNpEK6tYEUyGPQVhc
         showIcon: false
         icon: arrowRight
         iconPosition: right
